@@ -25,5 +25,5 @@ My name is MoonSoo Choi, and I am currently a Ph.D. student @ Harvard Business S
 
 
 ## Feel free to contact me!
-- E-mail: `mo` + `[my last name]` AT hbs DOT edu 
+- E-mail: `mochoi` AT hbs DOT edu 
 - Other links: [Quora](https://www.quora.com/profile/MoonSoo-Choi) / [LinkedIn](https://www.linkedin.com/in/moonsoochoi/) / [School Profile](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=958422)
