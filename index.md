@@ -7,10 +7,10 @@ My name is MoonSoo Choi, and I am currently a Ph.D. student @ Harvard Business S
 - Topics: Interested in studying Operations Management, Service Management, Customer Experience (CX), and Information Design.
 - Methodology: experiments (lab, field), econometrics, data science, monte carlo simulation
 - Tech Stack:
-Statistical Computing: R, Python, Stata
-Optimization: AMPL, CPLEX, Julia
-Others: SQL, Qualtrics/jScript
-Previously used (and can pick up again as needed): Java (for robotics), Matlab, Arena Simulation
+  - Statistical Computing: R, Python, Stata
+  - Optimization: AMPL, CPLEX, Julia
+  - Others: SQL, Qualtrics/jScript
+- Previously used (and can pick up again as needed): Java (for robotics), Matlab, Arena Simulation
 
 ## Before PhD: 
 
@@ -25,5 +25,5 @@ Previously used (and can pick up again as needed): Java (for robotics), Matlab, 
 
 
 ## Feel free to contact me!
-E-mail: mo `[my last name]` AT hbs DOT edu 
-Other links: [Quora](https://www.quora.com/profile/MoonSoo-Choi) / [LinkedIn](https://www.linkedin.com/in/moonsoochoi/) / [School Profile](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=958422)
+- E-mail: `mo` + `[my last name]` AT hbs DOT edu 
+- Other links: [Quora](https://www.quora.com/profile/MoonSoo-Choi) / [LinkedIn](https://www.linkedin.com/in/moonsoochoi/) / [School Profile](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=958422)
