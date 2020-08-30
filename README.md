@@ -20,11 +20,13 @@ Working Paper. [Improving Customer Compatibility with Operational Transparency](
 MoonSoo Choi, Qi Fu, and Ward Whitt. 12/2017. [“Using Simulation to Improve the Pace of Play.”](https://scholar.harvard.edu/files/moonsoo/files/GolfSim.pdf) 
 International Journal of Golf Science: Human Kinetics Journal, 6, Pp. 85-117.
 
-In Preparation. Collaboration Dynamics and Re-Routing Decisions.
+- In progress works:
 
-In Preparation. “Making Terms and Conditions More Accessible”. (with Monika Westphal, Ryan W. Buell, and Anat Rafaeli). 
+Collaboration Dynamics and Re-Routing Decisions.
 
-In Preparation. “Design Considerations of Wait Time Transparency”. (with Ryan W. Buell)
+Making Terms and Conditions More Accessible. (with Monika Westphal, Ryan W. Buell, and Anat Rafaeli). 
+
+Design Considerations of Wait Time Transparency. (with Ryan W. Buell)
 
 ## Before PhD... 
 
