@@ -24,11 +24,11 @@ International Journal of Golf Science: Human Kinetics Journal, 6, Pp. 85-117.
 
 Projects in progress
 
-- Collaboration Dynamics and Routing Decisions.
-
 - Making Terms and Conditions More Accessible. (with Monika Westphal, Ryan W. Buell, and Anat Rafaeli). 
 
 - Design Considerations of Wait Time Transparency. (with Ryan W. Buell)
+
+- Collaboration Dynamics and Routing Decisions.
 
 ## Before PhD... 
 
