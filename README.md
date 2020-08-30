@@ -14,19 +14,21 @@ My name is MoonSoo Choi, and I am currently a Ph.D. student @ Harvard Business S
 
 ## Research projects
 
-Working Paper. [Improving Customer Compatibility with Operational Transparency](https://www.hbs.edu/faculty/Publication%20Files/20-013_918168b4-8402-4389-99c5-712d5c0d7e23.pdf)
+Completed drafts
+
+- [Improving Customer Compatibility with Operational Transparency](https://www.hbs.edu/faculty/Publication%20Files/20-013_918168b4-8402-4389-99c5-712d5c0d7e23.pdf)
 (with Ryan W. Buell) Revise & Resubmit requested.
 
-MoonSoo Choi, Qi Fu, and Ward Whitt. 12/2017. [“Using Simulation to Improve the Pace of Play.”](https://scholar.harvard.edu/files/moonsoo/files/GolfSim.pdf) 
+- MoonSoo Choi, Qi Fu, and Ward Whitt. 12/2017. [“Using Simulation to Improve the Pace of Play.”](https://scholar.harvard.edu/files/moonsoo/files/GolfSim.pdf) 
 International Journal of Golf Science: Human Kinetics Journal, 6, Pp. 85-117.
 
-- In progress works:
+In progress works:
 
-Collaboration Dynamics and Re-Routing Decisions.
+- Collaboration Dynamics and Re-Routing Decisions.
 
-Making Terms and Conditions More Accessible. (with Monika Westphal, Ryan W. Buell, and Anat Rafaeli). 
+- Making Terms and Conditions More Accessible. (with Monika Westphal, Ryan W. Buell, and Anat Rafaeli). 
 
-Design Considerations of Wait Time Transparency. (with Ryan W. Buell)
+- Design Considerations of Wait Time Transparency. (with Ryan W. Buell)
 
 ## Before PhD... 
 
