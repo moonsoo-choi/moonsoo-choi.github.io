@@ -22,7 +22,7 @@ Completed drafts
 - MoonSoo Choi, Qi Fu, and Ward Whitt. 12/2017. [“Using Simulation to Improve the Pace of Play.”](https://scholar.harvard.edu/files/moonsoo/files/GolfSim.pdf) 
 International Journal of Golf Science: Human Kinetics Journal, 6, Pp. 85-117.
 
-In progress works:
+Projects in progress
 
 - Collaboration Dynamics and Re-Routing Decisions.
 
