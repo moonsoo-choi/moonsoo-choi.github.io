@@ -3,7 +3,7 @@
 My name is MoonSoo Choi, and I am currently a Ph.D. student @ Harvard Business School – fascinated by all things related to operations, CX, and technology.
 
 
-## Currently Ph.D. student @ Harvard Business School (2017 – )
+## Research interests
 - Topics: Interested in studying Operations Management, Service Management, Customer Experience (CX), and Information Design.
 - Methodology: experiments (lab, field), econometrics, machine learning, monte carlo simulation
 - Tech Stack:
@@ -12,7 +12,7 @@ My name is MoonSoo Choi, and I am currently a Ph.D. student @ Harvard Business S
   - Others: SQL, Qualtrics/jScript
 - Previously used (and can pick up again as needed): Java (for robotics), Matlab, Arena Simulation
 
-## Research projects
+## Projects
 
 Completed drafts
 
