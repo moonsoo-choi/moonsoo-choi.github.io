@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
-description: A simple template based on minimal jekyll theme
-show_downloads: True
+title: Viscerally ambiguous blog of M.S. Choi
+description: Work and creative space of M.S. Choi
+show_downloads: False
 navigation:
-  - title: Home
+  - title: home
     url: /
-  - title: Setup
+  - title: setup
     url: setup
+  - title: blog
+    url: /blog
