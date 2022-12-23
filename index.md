@@ -4,8 +4,10 @@ layout: default
 # {{site.title}}
 {{site.description}}
 
+## Currently a data science manager at Walmart (2021-):
+- Products developed: 
 
-## Currently Ph.D. student @ Harvard Business School (2017 – )
+## PhD @ Harvard Business School (2017–)
 - Topics: Interested in studying Operations Management, Service Management, Customer Experience (CX), and Information Design.
 - Methodology: experiments (lab, field), econometrics, data science, monte carlo simulation
 - Tech Stack:
@@ -13,6 +15,12 @@ layout: default
   - Optimization: AMPL, CPLEX, Julia
   - Others: SQL, Qualtrics/jScript
 - Previously used (and can pick up again as needed): Java (for robotics), Matlab, Arena Simulation
+
+## Current interests:
+- Understanding more about:
+  1. [Rawlsian framework of fairness and justice](https://plato.stanford.edu/entries/rawls/#JusFaiJusWitLibSoc)... I actually see an interesting link between [veil of ignorance](https://ethicsunwrapped.utexas.edu/glossary/veil-of-ignorance) and [differences among SCOTUS justices' approaches to racism](https://www.corteidh.or.cr/tablas/r33547.pdf)
+  2. [Saint Thérèse of Lisieux](https://www.littleflower.org/st-therese/)
+  3.  
 
 ## Before PhD: 
 
