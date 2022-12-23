@@ -16,7 +16,7 @@ layout: default
 
 ## Before PhD: 
 
-- I studied Operations Research all my life – needless to say, it's a fascinating field! It's an amazing field to be in if you love solving problems and putting pieces of the puzzle together (and especially if you enjoy working with people) – INFORMS article on Analytics/Operations Research Career. I received my B.S. from UC-Berkeley (Go Bears!) and M.S. from Columbia University, both in Industrial Engineering and Operations Research.
+- I studied Operations Research all my life – needless to say, it's a fascinating field! It's an amazing field to be in if you love solving problems and putting pieces of the puzzle together (and especially if you enjoy working with people). Take a look at the [INFORMS article on Analytics/Operations Research Career](https://www.informs.org/Resource-Center/INFORMS-Student-Union/Consider-an-Analytics-OR-Career). I received my B.S. from UC-Berkeley (Go Bears!) and M.S. from Columbia University, both in Industrial Engineering and Operations Research.
 
 - I worked at a number of organizations, namely @ Spire Health (health data science), UC-Berkeley Registrar's Office (project management), Disneyland Resort (facilities & operations services), Christiansen Capital Advisors LLC (gaming and leisure industry), and Columbia Business School (technology in higher education). 
 
