@@ -7,7 +7,8 @@ layout: default
 ## Currently a data science manager at Walmart (2021-):
 - Products developed: 
 
-## PhD @ Harvard Business School (2017–)
+## PhD @ Harvard Business School (2017–2021)
+- Dissertation: [Information Design in Operations Management](https://dash.harvard.edu/handle/1/37370132)
 - Topics: Interested in studying Operations Management, Service Management, Customer Experience (CX), and Information Design.
 - Methodology: experiments (lab, field), econometrics, data science, monte carlo simulation
 - Tech Stack:
@@ -21,7 +22,7 @@ layout: default
   1. [Rawlsian framework of fairness and justice](https://plato.stanford.edu/entries/rawls/#JusFaiJusWitLibSoc)... I actually see an interesting link between [veil of ignorance](https://ethicsunwrapped.utexas.edu/glossary/veil-of-ignorance) and [differences among SCOTUS justices' approaches to racism](https://www.corteidh.or.cr/tablas/r33547.pdf)
   2. [Saint Thérèse of Lisieux](https://www.littleflower.org/st-therese/)
   3. Franz Kafka (the most interesting yet perplexing quote: "...I believe we are not such a radical relapse of God's, only one of his bad moods. He had a bad day.")
-  4. Organizational dynamics (and why 1 + 1 isn't always 2 when you have a group of people).
+  4. Organizational dynamics (and why 1 + 1 is 2 when you ask an individual, but it isn't always 2 when you assemble a group of humans).
 
 ## Before PhD: 
 
