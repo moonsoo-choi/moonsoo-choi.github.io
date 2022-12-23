@@ -11,3 +11,7 @@ navigation:
     url: writings
   - title: blogs
     url: blogs
+  - title: '  data science blogs'
+    url: blogs-ds
+  - title: '  life blogs'
+    url: blogs-life
