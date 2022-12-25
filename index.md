@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# {{site.title}}
-{{site.description}}
+# Hi
+<em>Image credit: Milan Kundera, from his novel <strong>The Unbearable Lightness of Being</strong></em>
 
 ## Currently a data science manager at Walmart (2021-):
 - Products developed: 

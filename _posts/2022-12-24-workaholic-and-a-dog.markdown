@@ -4,6 +4,7 @@ author: M.S. Choi
 title:  "Dog of a workaholic"
 date:   2022-12-24
 categories: jekyll update
+tags: dogs
 ---
 
 ## Day -1
