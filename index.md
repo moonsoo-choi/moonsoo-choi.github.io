@@ -5,10 +5,10 @@ layout: default
 <em>Image credit: Milan Kundera, from his novel <strong>The Unbearable Lightness of Being</strong></em>
 
 ## Currently a data science manager at Walmart (2021-):
-• Led and mentored a team of four to develop stellar analytics tools w/ 1,000+ hr/year & financial impact
-– Products developed: (1) automated pre-post tool, (2) A/B testing v2.0, (3) text similarity tool (SpaCy, TensorFlow, Universal Sentence Encoder), (4) merchandising item list management tool
-• Served as internal consultant for: (1) A/B tests, (2) supply chain & transportation, (3) analytics strategy
-• Received multiple recognitions for the above work
+- Led and mentored a team of four to develop stellar analytics tools w/ 1,000+ hr/year & financial impact
+	- Products developed: (1) automated pre-post tool, (2) A/B testing v2.0, (3) text similarity tool (SpaCy, TensorFlow, Universal Sentence Encoder), (4) merchandising item list management tool
+- Served as internal consultant for: (1) A/B tests, (2) supply chain & transportation, (3) analytics strategy
+- Received multiple recognitions for the above work
 
 ## PhD @ Harvard Business School (2017–2021)
 - Dissertation: [Information Design in Operations Management](https://dash.harvard.edu/handle/1/37370132)
