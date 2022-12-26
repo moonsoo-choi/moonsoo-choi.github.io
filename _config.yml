@@ -4,10 +4,10 @@ title: Viscerally ambiguous blog of M.S. Choi
 description: Work and creative space of M.S. Choi
 show_downloads: False
 navigation:
-  - title: home
+  - title: about
     url: /
-  - title: setup
-    url: setup
+#  - title: setup
+#    url: setup
   - title: writings (novellas)
     url: writings
   - title: blogs
