@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# `Welcome / 환영합니다 / 歡迎 / Willkommen / Bienvenue` 😃🦮🌍👣
+# `Welcome` 🌍👣
 <em>Image credit: Milan Kundera, from his novel <strong>The Unbearable Lightness of Being</strong></em>
 
 ## Currently a data science manager at Walmart (2021-):
