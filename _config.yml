@@ -16,6 +16,7 @@ navigation:
     url: blogs_ds
   - title: '>  being vs. doing'
     url: blogs_being_doing
+    output: true
 comments:
   provider: "staticman"
 staticman:
