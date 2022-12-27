@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 logo: /assets/img/kundera_dog.jpeg
 title: Viscerally ambiguous workspace of MoonSoo Choi
-description: `A safe, clopen space for creative expressions`
+description: A safe, clopen space for creative expressions
 show_downloads: False
 navigation:
   - title: about
