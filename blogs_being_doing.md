@@ -5,8 +5,8 @@ layout: default
 ## Being vs. Doing
 - An attempt to explain why excessive <em>doing</em> is a heresy (but why excessive <em>being</em> is not)
 
-{% assign work_posts = site.workposts %}
-	{% for post in work_posts %}
+{% assign myworkposts = site.workposts %}
+	{% for post in myworkposts %}
   <article>
     <h2>
       <a href="{{ post.url }}">
