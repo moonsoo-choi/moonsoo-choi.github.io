@@ -13,9 +13,9 @@ navigation:
   - title: blogs
     url: blogs
   - title: '>  data science blogs'
-    url: blogs-ds
+    url: blogs_ds
   - title: '>  being vs. doing'
-    url: blogs-work
+    url: blogs_being_doing
 comments:
   provider: "staticman"
 staticman:
