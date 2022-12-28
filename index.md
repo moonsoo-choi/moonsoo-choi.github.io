@@ -38,3 +38,5 @@ layout: default
 - I studied Chinese (pretty intensively) in college. With much gratitude to the Huang Scholars Program, I was able to spend two summers @ Beijing during my college years.
 
 {{site.categories}}
+
+{{site.tags}}
