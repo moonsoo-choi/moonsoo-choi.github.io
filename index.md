@@ -37,14 +37,4 @@ layout: default
 
 - I studied Chinese (pretty intensively) in college. With much gratitude to the Huang Scholars Program, I was able to spend two summers @ Beijing during my college years.
 
-{% for post in myworkposts %}
-  <article>
-    <h2>
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h2>
-    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-    {{ post.content }}
-  </article>
-{% endfor %}
+{{site.categories}}
