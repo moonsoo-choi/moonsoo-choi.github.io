@@ -3,7 +3,7 @@ layout: post
 author: M.S. Choi
 title:  "Life, Liberty, Pursuit of Happyness AND EXHAUSTION"
 date:   2022-12-26
-categories: [being_and_doing]
+categories: ["being_and_doing""]
 tags: dogs
 ---
 
