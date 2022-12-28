@@ -5,7 +5,7 @@ layout: default
 ## Being vs. Doing
 - An attempt to explain why excessive <em>doing</em> is a heresy (but why excessive <em>being</em> is not)
 
-{% for post in site.categories.being_and_doing %}
+{% for post in site.tags.being_and_doing %}
   <article>
     <h2>
       <a href="{{ post.url }}">
