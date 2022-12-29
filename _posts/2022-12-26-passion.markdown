@@ -3,7 +3,7 @@ layout: post
 author: M.S. Choi
 title:  "Life, Liberty, Pursuit of Happyness AND EXHAUSTION"
 date:   2022-12-26
-tags: ["being_and_doing"]
+tags: ["being vs doing"]
 ---
 
 - Adapted from my Medium article: https://moonsoo-choi.medium.com/life-liberty-and-the-pursuit-of-happiness-and-exhaustion-e87998b5a5b

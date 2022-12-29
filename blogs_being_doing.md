@@ -24,7 +24,7 @@ layout: default
 
 ## Previous block of code
 
-{% for post in site.tags.being_and_doing %}
+{% for post in site.tags["being vs doing"] %}
   <article>
     <h2>
       <a href="{{ post.url }}">
