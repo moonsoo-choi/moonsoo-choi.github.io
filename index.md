@@ -2,7 +2,7 @@
 layout: default
 ---
 # `Welcome` 🌍👣
-<em>Image credit: Milan Kundera, from his novel <strong>The Unbearable Lightness of Being</strong></em>
+<em>Image source: Milan Kundera, from his novel <strong>The Unbearable Lightness of Being</strong></em>
 
 ## Currently a data science manager at Walmart (2021-):
 - Led and mentored a team of four to develop stellar analytics tools w/ 1,000+ hr/year & financial impact
@@ -12,20 +12,13 @@ layout: default
 
 ## PhD @ Harvard Business School (2017–2021)
 - Dissertation: [Information Design in Operations Management](https://dash.harvard.edu/handle/1/37370132)
-- Topics: Interested in studying Operations Management, Service Management, Customer Experience (CX), and Information Design.
+- Topics: Operations Management, Service Management, Customer Experience (CX), and Information Design.
 - Methodology: experiments (lab, field), econometrics, data science, monte carlo simulation
 - Tech Stack:
   - Statistical Computing: R, Python, Stata
   - Optimization: AMPL, CPLEX, Julia
   - Others: SQL, Qualtrics/jScript, Adobe Omniture
 - Previously used (and can pick up again as needed): Java (for robotics), Matlab, Arena Simulation
-
-## Current interests:
-- Understanding more about:
-  1. [Rawlsian framework of fairness and justice](https://plato.stanford.edu/entries/rawls/#JusFaiJusWitLibSoc)... I actually see an interesting link between [veil of ignorance](https://ethicsunwrapped.utexas.edu/glossary/veil-of-ignorance) and [differences among SCOTUS justices' approaches to racism](https://www.corteidh.or.cr/tablas/r33547.pdf)
-  2. [Saint Thérèse of Lisieux](https://www.littleflower.org/st-therese/)
-  3. Franz Kafka (the most interesting yet perplexing quote: "...I believe we are not such a radical relapse of God's, only one of his bad moods. He had a bad day.")
-  4. Organizational dynamics (and why 1 + 1 is 2 when you ask an individual, but it isn't always 2 when you assemble a group of humans).
 
 ## Before PhD: 
 

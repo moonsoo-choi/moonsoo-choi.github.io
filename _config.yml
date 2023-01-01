@@ -8,6 +8,8 @@ navigation:
     url: /
 #  - title: setup
 #    url: setup
+  - title: interests
+    url: interests
   - title: writings (novellas)
     url: writings
   - title: blogs
