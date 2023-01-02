@@ -12,8 +12,7 @@ layout: default
 ## The Second Lottery (Tribute to Shirley Jackson's Lottery)
 
 
-
-## President's Speech
+# Drafts:
 
 {% for post in site.tags["novellas"] %}
   <article>
