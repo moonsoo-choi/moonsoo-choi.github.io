@@ -17,6 +17,6 @@ layout: default
 - (Unknown) Be careful what you wish for, because you may get it
 
 
-### Long time ago...
+### sometime before 2020
 - (Unknown) "For sale: Baby shoes. Never worn."
-	* Popularly attributed to Ernest Hemingway, but the exact attribution is unknown...
+	* Popularly attributed to Ernest Hemingway, but the exact attribution is unknown.
