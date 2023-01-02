@@ -2,17 +2,17 @@
 layout: post
 author: M.S. Choi
 title:  "Bee Merry Co."
-date:   2022-12-31
+date: 2022-12-31
 tags: ["novellas"]
 ---
 
-<u>Chapter 1: Bee Merry Company</u>
+Chapter 1: Bee Merry Company
 
 Bee Merry Company is a leading producer of avant-garde honey.  Bee Merry Co. has been thriving at an astronomical rate: +12% sales quarter-to-quarter for the past three years.  Just crazy growth.  Since its humble beginnings, the company has now grown large, alluring flocks of investors to chip in money.  The investment has enabled Queen Bee, the “q-bee”, and her relentlessly diligent honeybees to invest in honey production equipment, nectar storage units, and beehive expansion.  
 
 The Queen seemed pleased, the investors seemed pleased – everyone seemed pleased.  It was soon revealed to be a blessing and a curse.  
 
-<u>Chapter 2</u> 
+Chapter 2 
 
 This quarter, for the first time in many years, the sales growth was a “measly” +0.5%.  Investors called the growth “measly”, but Bee Merry Co. is one of the few that managed to keep its head above the water.  In fact, half of the other beehives just filed bankruptcy.
 
@@ -22,13 +22,13 @@ Investors asked the Q-bee what she plans to do.  Q-bee remained calm, but to add
 
 Queen Bee could do nothing but to reluctantly reiterate with a qualified optimism, that “the company has a bright future.” 
 
-<u>Chapter 3</u>
+Chapter 3
 
 Later in the same day, the Queen Bee gathered everyone.  To continue the trend of “happy” growth, cutting nonessential parts of operations was essential.  
 
 The company congregated again in a few days.
 
-<u>Chapter 4</u>
+Chapter 4
 
 There was a huge crowd.  Everyone knew the continued growth and the “impact” (whatever that meant) were pivotal to company’s “happiness” (again whatever that meant).
 
@@ -52,13 +52,13 @@ Larvae head thought to himself, “Seriously? You want to put g**damn numbers fo
 
  
 
-<u>Chapter 5</u>
+Chapter 5
 
 The next morning, the q-bee noticed a resignation letter slipped under the door.  It was from an e-bee, an engineering bee who stuck with the company the longest (40 bee-years, to be precise). 
 
 q-bee asked the e-bee to come up to her chamber.
 
-<u>Chapter 6</u>
+Chapter 6
 
 The e-bee entered the chamber of q-bee, who sat in her chair curious, anguished, and exhausted.
 
@@ -116,7 +116,7 @@ e-bee: “You know, throughout my 30 bee-years of my engineering career, there s
 
 …so, how is it that the company expects us to be happy, lofty, full of rainbows, honeys drizzling, …, whatever.  Sure, nobody will put a gun against our heads to smile forcibly at all times.  But this is absurd.  If we have 
 
-<u>Chapter 7</u>
+Chapter 7
 
 The following week, massive waves of layoffs began.  Ultimately, half of others were let go too, leaving the queen by herself.  
 
