@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# `Currently working on following novellas & novelletes:`
+# `Currently working on following novellas & novellettes:`
 
 ## Bee Merry Co.
 

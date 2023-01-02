@@ -11,7 +11,9 @@ navigation:
   - title: interests
     url: interests
   - title: writings (novellas)
-    url: writings
+    url: novellas
+  - title: onelightenment
+    url: onelightenment
   - title: blogs
     url: blogs
   - title: '>  data science blogs'
