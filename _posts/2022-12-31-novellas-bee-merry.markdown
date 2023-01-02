@@ -2,7 +2,7 @@
 layout: post
 author: M.S. Choi
 title:  "Bee Merry Co."
-date:   2023-12-31
+date:   2022-12-31
 tags: ["novellas"]
 ---
 
