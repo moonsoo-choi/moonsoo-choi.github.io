@@ -11,3 +11,5 @@ layout: default
   
   # Operations:
  - Service management, behavioral operations
+ 
+ - Queueing (read Dave Maister's [Psychology of Waiting Lines](https://davidmaister.com/wp-content/themes/davidmaister/pdf/PsycholgyofWaitingLines751.pdf))
