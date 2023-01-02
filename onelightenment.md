@@ -15,3 +15,8 @@ layout: default
 - (Richard Feynman) I would rather have questions that can't be answered than answers that can't be questioned.
 
 - (Unknown) Be careful what you wish for, because you may get it
+
+
+### Long time ago...
+- (Unknown) "For sale: Baby shoes. Never worn."
+	* Popularly attributed to Ernest Hemingway, but the exact attribution is unknown...
