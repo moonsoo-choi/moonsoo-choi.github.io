@@ -9,7 +9,9 @@ layout: default
 
 ## Meeting at the Dam
 
-## The Second Lottery (Tribute to Shirley Jackson's Lottery)
+## The Second Lottery
+
+## Les Poissons
 
 
 # Drafts:
