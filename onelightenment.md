@@ -8,6 +8,7 @@ layout: default
 ### 2023
 #### January
 - (Vladimir Lenin) All extremes are bad.
+	* The idea of balance appealed to many philosophers, both eastern and western ones. See the [Confucian school of thought](https://en.wikipedia.org/wiki/Doctrine_of_the_Mean) and [Aristotle's Ethics](https://plato.stanford.edu/entries/aristotle-ethics/)
 
 - (Sartre) 'Happiness is not doing what you want but wanting what you do.'
 
