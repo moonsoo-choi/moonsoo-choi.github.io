@@ -7,7 +7,9 @@ layout: default
 
 ### 2023
 #### January
-- (Sartre)  'Happiness is not doing what you want but wanting what you do.'
+- (Vladimir Lenin) All extremes are bad.
+
+- (Sartre) 'Happiness is not doing what you want but wanting what you do.'
 
 ### 2022
 #### December
@@ -21,3 +23,8 @@ layout: default
 ### Pre-2020s
 - (Unknown) "For sale: Baby shoes. Never worn."
 	* Popularly attributed to Ernest Hemingway, but the exact attribution is unknown.
+
+- Everything is a social construct! (joke among sociologists)
+
+- (Homeomorphism) https://en.wikipedia.org/wiki/Homeomorphism. A coffee mug and a donut are, homeomorphically, the same!
+	* A mind-blowing realization I had in real analysis class.
