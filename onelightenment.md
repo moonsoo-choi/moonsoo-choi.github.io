@@ -18,7 +18,8 @@ layout: default
 
 - (Richard Feynman) I would rather have questions that can't be answered than answers that can't be questioned.
 
-- (Unknown) Be careful what you wish for, because you may get it
+- (Unknown) Be careful what you wish for, because you may get it.
+	* I'd like to attribute this to St. Augustine, but it could be that many saints and non-saints shared this noble thought.
 
 
 ### Pre-2020s
