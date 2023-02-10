@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# `Currently working on following novellas & novellettes:`
+# `Currently working on following novelettes:`
 
 ## Bee Merry Co.
 - TL;DR: can profit shape who you are?
@@ -16,7 +16,7 @@ layout: default
 
 # Drafts:
 
-{% for post in site.tags["novellas"] %}
+{% for post in site.tags["novelettes"] %}
   <article>
     <h2>
       <a href="{{ post.url }}">
