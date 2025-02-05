@@ -4,7 +4,10 @@ layout: default
 # `Welcome` 🌍👣☕
 <em>Image source: Milan Kundera, from his novel <strong>The Unbearable Lightness of Being</strong></em>
 
-## Currently a data science manager at Walmart (2021-):
+## Currently a Data Scientist at the Department of Veterans Affairs
+- Part of the effort to protect veterans' benefits from fradulent activities
+
+## Data Science at Walmart (2021-2024):
 - Led and mentored a team of four to develop stellar analytics tools w/ 1,000+ hr/year & financial impact
 	- Products developed: (1) automated pre-post tool, (2) A/B testing v2.0, (3) text similarity tool (SpaCy, TensorFlow, Universal Sentence Encoder), (4) merchandising item list management tool
 - Served as internal consultant for: (1) A/B tests, (2) supply chain & transportation, (3) analytics strategy
