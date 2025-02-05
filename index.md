@@ -8,10 +8,11 @@ layout: default
 - Part of the effort to protect veterans' benefits from fradulent activities
 
 ## Data Science at Walmart (2021-2024):
-- Led and mentored a team of four to develop stellar analytics tools w/ 1,000+ hr/year & financial impact
-	- Products developed: (1) automated pre-post tool, (2) A/B testing v2.0, (3) text similarity tool (SpaCy, TensorFlow, Universal Sentence Encoder), (4) merchandising item list management tool
-- Served as internal consultant for: (1) A/B tests, (2) supply chain & transportation, (3) analytics strategy
-- Received multiple recognitions for the above work
+- Served as a leading thought partner for weaving data in company’s identity and culture 
+– Delivered frequent and highly-commended presentations to executives on complex technical work
+- Led different teams to build stellar analytics tools w/ cumulative $500Mn+ savings and 2,000+ hours/year
+- Products developed: (1) automated pre-post synthetic control tool, (2) A/B testing v2.0, (3) text similarity tool (spaCy, TensorFlow, Google USE), (4) merchandising mgmt. tool, (5) matching algorithm, (6) customer promise & package delays, (7) delivery defect root cause analytics, (8) vehicle routing.
+
 
 ## PhD @ Harvard Business School (2017–2021)
 - Dissertation: [Information Design in Operations Management](https://dash.harvard.edu/handle/1/37370132)
