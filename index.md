@@ -26,7 +26,5 @@ layout: default
 
 - I worked at a number of organizations, namely @ Spire Health (health data science), UC-Berkeley Registrar's Office (project management), Disneyland Resort (facilities & operations services), Christiansen Capital Advisors LLC (gaming and leisure industry), and Columbia Business School (technology in higher education). 
 
-- I sat for and took the District of Columbia Bar Exam on July 2017. I have been a licensed attorney (currently inactive) and a member of the District Columbia Bar since February 2018.
-
 - I studied Chinese (pretty intensely) in college. With much gratitude to the Huang Scholars Program, I was able to spend two summers @ Beijing during my college years.
 
