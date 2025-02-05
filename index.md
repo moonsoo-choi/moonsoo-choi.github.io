@@ -8,8 +8,8 @@ layout: default
 - Part of the effort to protect veterans' benefits from fradulent activities
 
 ## Data Science at Walmart (2021-2024):
-- Served as a leading thought partner for weaving data in company’s identity and culture 
-– Delivered frequent and highly-commended presentations to executives on complex technical work
+- Served as a leading thought partner for weaving data in company’s identity and culture
+- Delivered frequent and highly-commended presentations to executives on complex technical work
 - Led different teams to build stellar analytics tools w/ cumulative $500Mn+ savings and 2,000+ hours/year
 - Products developed: (1) automated pre-post synthetic control tool, (2) A/B testing v2.0, (3) text similarity tool (spaCy, TensorFlow, Google USE), (4) merchandising mgmt. tool, (5) matching algorithm, (6) customer promise & package delays, (7) delivery defect root cause analytics, (8) vehicle routing.
 
